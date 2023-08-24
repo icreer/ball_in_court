@@ -80,7 +80,7 @@ blocks
 
     hex (5 8 9 6 16 19 20 17) // Error located for test 2
     (25 27 1)
-    simpleGrading (2.5 1 1)
+    simpleGrading (1 1 1) // this is a big error location
 
     hex (6 9 10 7 17 20 21 18)
     (25 30 1)
