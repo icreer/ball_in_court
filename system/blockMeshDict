@@ -82,7 +82,7 @@ blocks
     (25 27 1)
     simpleGrading (1 1 1) // this is a big error location
 
-    hex (6 9 10 7 17 20 21 18)
+    hex (6 9 10 7 17 20 21 18) // This also had erro problems
     (25 30 1)
     simpleGrading (2.5 $posYR 1)
 );
